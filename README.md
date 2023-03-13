@@ -1,12 +1,9 @@
-![imagem compass](https://vetores.org/d/compass-uol.svg)
-### Atividade Avaliativa - Referente a 4° Sprint do programa de Bolsas Compass UOL 
+
+# Uso de API com Nodejs no AWS Beanstalk
  
 ### Projeto foi desenvolvido por: 
 
 * [@Luan-Ferreira](https://github.com/fluanbrito)
-* [@Jhonatan-Lobo](https://github.com/JhonatanLobo)
-* [@Tecla-Fernandes](https://github.com/TeclaFernandes)
-* [@Julio-Cesar](https://github.com/JC-Rodrigues)
 
 ### Recursos necessários.
 
@@ -18,7 +15,7 @@
 ### Desenvolvimento da Avaliação
 O projeto foi desenvolvido com a seguinte organização de pastas: 
 
-![imagem compass](https://i.imgur.com/knfl97M.jpeg)
+![imagem](https://i.imgur.com/knfl97M.jpeg)
 
 
 
@@ -106,7 +103,7 @@ server.listen(8080);
 
 ### Package.json
 Arquivo padrão com parâmetros de inicio da aplicação NODE
-![imagem](https://i.imgur.com/pNkxM1s.jpeg)
+![imagens](https://i.imgur.com/pNkxM1s.jpeg)
 
 ### Format 
 Exemplo de codigo utilizado no arquivo atividades_format.js
